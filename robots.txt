@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shierisa.github.io/sitemap.html.gz
+Sitemap: https://shierisa.github.io/app/sitemap.html.gz
+Sitemap: https://shierisa.github.io/assets/sitemap.html.gz
+Sitemap: https://shierisa.github.io/css/sitemap.html.gz
+Sitemap: https://shierisa.github.io/includes/sitemap.html.gz
+Sitemap: https://shierisa.github.io/item/sitemap.html.gz
+Sitemap: https://shierisa.github.io/src/sitemap.html.gz
